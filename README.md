@@ -6,8 +6,6 @@ HOW TO RUN: PASSWORD VALIDATOR (NODE.JS & RUST)
 
 ====================================================================
 
-Project Root: C:\Users\gamer\Desktop\all stupid project\password-validator
-
 
 
 --------------------------------------------------------------------
